@@ -1,0 +1,54 @@
+body{
+	background-color:#FFFFCC;
+}
+#navigation{
+
+	position: absolute;
+	margin-left: 25%;
+	text-align: center;
+	
+}
+.name{
+
+	padding: 5px 20px 5px 20px;
+	margin-bottom: 20px;
+	background-color:#39ac73;
+	border-radius:20% ;
+	border: 1px solid black;
+	font-size:25px;
+	text-decoration: none;
+}
+#tablesectionOne{
+	top: 120px;
+background-color: #FFFFDD;
+text-align: center;
+table-layout: fixed;
+position: relative;
+}
+#tablesectionTow{
+	top: 120px;
+background-color: #FFFFDD;
+text-align: center;
+table-layout: fixed;
+position: relative;
+}
+#tablesectionThree{
+	top: 120px;
+background-color: #FFFFDD;	
+text-align: center;
+table-layout: fixed;
+position:relative;
+}
+#tablesectionFour{
+	top:120px;
+background-color: #FFFFDD;	
+text-align: center;
+table-layout: fixed;
+position: relative;
+}
+.CAPTION{
+	background-color: rgb(255,185,115);
+}
+th,td{
+	border: solid 1px #D0D0D0;
+}
